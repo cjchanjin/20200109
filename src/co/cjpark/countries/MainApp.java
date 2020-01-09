@@ -101,8 +101,7 @@ public class MainApp {
 			e.printStackTrace();
 		}
 		sc.close();
-	}
-	
+	}	
 	
 		
 }
